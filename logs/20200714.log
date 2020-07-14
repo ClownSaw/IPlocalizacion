@@ -1,0 +1,18 @@
+[INFO] 2020-07-14 00:18:29 - Retrieving 66.254.114.41 Geolocation..
+[ERROR] 2020-07-14 00:18:54 - An unexpected error occurred <urlopen error [Errno -3] Temporary failure in name resolution>!
+[ERROR] 2020-07-14 00:18:54 - Retrieving IP Geolocation information failed.
+[INFO] 2020-07-14 00:19:38 - Retrieving 66.254.114.41 Geolocation..
+[INFO] 2020-07-14 00:19:38 - User-Agent used: IP2GeoLocation 2.0.4
+[INFO] 2020-07-14 00:19:38 - Geolocation information has been retrieved for 66.254.114.41(66.254.114.41).
+[INFO] 2020-07-14 00:19:49 - Retrieving My IP Geolocation..
+[INFO] 2020-07-14 00:19:49 - User-Agent used: IP2GeoLocation 2.0.4
+[INFO] 2020-07-14 00:19:49 - Geolocation information has been retrieved for My IP(201.211.205.221).
+[INFO] 2020-07-14 00:19:57 - Retrieving 66.254.114.41 Geolocation..
+[INFO] 2020-07-14 00:19:57 - User-Agent used: IP2GeoLocation 2.0.4
+[INFO] 2020-07-14 00:19:57 - Geolocation information has been retrieved for 66.254.114.41(66.254.114.41).
+[INFO] 2020-07-14 00:20:07 - Retrieving My IP Geolocation..
+[INFO] 2020-07-14 00:20:07 - User-Agent used: IP2GeoLocation 2.0.4
+[INFO] 2020-07-14 00:20:07 - Geolocation information has been retrieved for My IP(201.211.205.221).
+[INFO] 2020-07-14 00:21:45 - Retrieving My IP Geolocation..
+[INFO] 2020-07-14 00:21:45 - User-Agent used: IP2GeoLocation 2.0.4
+[INFO] 2020-07-14 00:21:45 - Geolocation information has been retrieved for My IP(201.211.205.221).
