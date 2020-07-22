@@ -1,7 +1,7 @@
 
 # Descargar/Instalar
 
-```git clone https://github.com/ClownSaw/IPLocalizacion```
+``git clone https://github.com/ClownSaw/IPLocalizacion``
 
 ``` pip3 install -r requirements.txt --user ```
 
