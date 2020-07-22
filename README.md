@@ -3,9 +3,9 @@
 
 ```git clone https://github.com/ClownSaw/IPLocalizacion```
 
-```pip3 install -r requirements.txt --user```
+``` pip3 install -r requirements.txt --user ```
 
-#if pip3 is missing:
+# if pip3 is missing:
 
 ```apt-get install python3-setuptools```
 
