@@ -1,14 +1,18 @@
 
-# Descargar/Instalar
+# Uso manual:
 
-`git clone https://github.com/ClownSaw/IPLocalizacion`
+`git clone https://github.com/ClownSaw/IPlocalizacion`
 
-``` pip3 install -r requirements.txt --user ```
+`pip3 install -r requirements.txt`
 
-# if pip3 is missing:
+`python3 iplocalizacion'
 
-```apt-get install python3-setuptools```
+# Demo:
 
-```easy_install3 pip```
+# Instalar en el sistema:
 
-```pip3 install -r requirements.txt```
+``git clone https://github.com/ClownSaw/IPlocalizacion``
+
+``sudo bash install.sh``
+
+# Demo:
