@@ -9,7 +9,7 @@
 
 # Demo:
 
-<img src="https://github.com/ClownSaw/IPlocalizacion/blob/master/imag/2.png">
+<img src="https://github.com/ClownSaw/IPlocalizacion/blob/master/imag/1.png">
 
 # Instalar en el sistema:
 
