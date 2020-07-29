@@ -1,13 +1,22 @@
 #!usr/bin/bash
-sudo pip3 install -r requirements.txt
+pip3 install -r requirements.txt
 
 chmod +x iplocalizacion
 
-sudo mv iplocalizacion /usr/bin/
+mv iplocalizacion /usr/bin/
 
-sudo mv core /usr/bin/
+mv core /usr/bin/
 
-sudo mv logs /usr/bin/
+mv logs /usr/bin/
 
-sudo mv kali-iplocalizacion.desktop /usr/share/applications/
+echo "[Desktop Entry]
+Name=iplocalizacion
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "diego"
+Icon=/usr/bin/core/iplocalizacion
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-info-gathering;
+X-Kali-Package=iplocalizacion " >> /usr/share/applications/kali-iplocalizacion.desktop 
 
