@@ -1,3 +1,4 @@
+<img src="https://github.com/ClownSaw/IPlocalizacion/blob/master/logo.png" width="200">
 
 # Uso manual:
 
