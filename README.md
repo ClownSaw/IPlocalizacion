@@ -1,4 +1,4 @@
-<img src="https://github.com/ClownSaw/IPlocalizacion/blob/master/imag/dht.png" >
+<img src="https://github.com/ClownSaw/IPlocalizacion/blob/master/imag/dht7.png" >
 
 # Uso manual:
 
