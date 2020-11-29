@@ -1,4 +1,4 @@
-<img src="https://github.com/ClownSaw/IPlocalizacion/blob/master/logo.png" width="200">
+<img src="https://github.com/ClownSaw/IPlocalizacion/blob/master/imag/dht202034567.png" >
 
 # Uso manual:
 
